@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Lalit cards related QA APIs "
+  contactDetails:
+    name: " Pankaj - QA Lead"
+    email: "cherryl@pankaj.com"
+  onCallSupport:
+    - (201) 236-1267

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to Lalit loans related prod APIs "
+  contactDetails:
+    name: " Sudhir - Product Owner"
+    email: "pelias@sudhir.com"
+  onCallSupport:
+    - (723) 656-87234509

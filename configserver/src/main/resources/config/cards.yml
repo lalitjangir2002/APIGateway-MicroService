@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Lalit cards related local APIs "
+  contactDetails:
+    name: "Dragos  - Developer"
+    email: "dragos@d.com"
+  onCallSupport:
+    - (412) 419453-34914553

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Lalit accounts related QA APIs "
+  contactDetails:
+    name: "Smitha  - QA Lead"
+    email: "smitha@ray.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

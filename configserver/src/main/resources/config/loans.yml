@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Lalit's loans related local APIs "
+  contactDetails:
+    name: "Lalit Kumar Jangir- Java Developer"
+    email: "lalitjangir.cse29@gmail.com"
+  onCallSupport:
+    - (452) 456-2176
